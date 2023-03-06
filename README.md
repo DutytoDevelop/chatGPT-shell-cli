@@ -74,7 +74,7 @@ This script relies on curl for the requests to the api and jq to parse the json 
    To install, run this in your terminal and provide your OpenAI API key when asked.
    
    ```sh
-   curl -sS https://raw.githubusercontent.com/0xacx/chatGPT-shell-cli/main/install.sh | sudo -E bash
+   curl -sS https://raw.githubusercontent.com/barry-ai-fork/chatGPT-shell-cli/main/install.sh | sudo -E bash
    ```
   
 ### Manual Installation
