@@ -28,7 +28,7 @@ if [[ "$TERM_PROGRAM" == "iTerm.app" ]]; then
 fi
 
 # Installing chatgpt script
-curl -sS https://raw.githubusercontent.com/0xacx/chatGPT-shell-cli/main/chatgpt.sh -o /usr/local/bin/chatgpt
+curl -sS https://raw.githubusercontent.com/barry-ai-fork/chatGPT-shell-cli/chatgpt.sh -o /usr/local/bin/chatgpt
 chmod +x /usr/local/bin/chatgpt
 echo "Installed chatgpt script to /usr/local/bin/chatgpt"
 
